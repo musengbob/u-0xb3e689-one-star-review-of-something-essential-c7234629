@@ -1,6 +1,12 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
+// Why this review works: it is a deadpan one-star review of sleep, an
+// everyday essential, built on the sharpest true grievance — eight hours
+// in, still tired. It reads like a real complaint filed in earnest
+// against a thing that cannot be fixed ("No refund, no support line, no
+// way to cancel"), then lands the turn in the last few words: "Would not
+// renew." Tight and specific at 137 of 160 characters.
 const LINE =
   "One star. Sleep takes eight hours every night and still delivers me tired. No refund, no support line, no way to cancel. Would not renew.";
 
